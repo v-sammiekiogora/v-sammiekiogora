@@ -23,5 +23,5 @@ Based in Nairobi, Kenya 🇰🇪
 
 ## Find me
 
-- [Portfolio](https://v-sammiekiogora.github.io/portfolio/)
+- [Portfolio](https://sammymati.com/)
 - [LinkedIn](https://www.linkedin.com/in/sammy-mati/)
