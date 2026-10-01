@@ -19,6 +19,5 @@ Currently building developer learning experiences at GitHub—helping developers
 
 I started in software QA before moving into product management, working across B2B SaaS, creator platforms, developer products, and learning experiences.
 
-Based in Nairobi, Kenya 🇰🇪
 
 
