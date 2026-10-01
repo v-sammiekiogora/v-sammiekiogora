@@ -21,7 +21,4 @@ I started in software QA before moving into product management, working across B
 
 Based in Nairobi, Kenya 🇰🇪
 
-## Find me
 
-- [Portfolio](https://sammymati.com/)
-- [LinkedIn](https://www.linkedin.com/in/sammy-mati/)
